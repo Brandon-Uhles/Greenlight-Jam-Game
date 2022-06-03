@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b321327e3deefbb48a4b192a7217e43d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenTea: {fileID: 21300000, guid: 2ca5023fd144c8043b4ce22de576c526, type: 3}
+  - senbei: {fileID: 21300000, guid: 0380bf7c3a4b3784a947322311ba0387, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
